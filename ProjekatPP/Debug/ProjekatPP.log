@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (ProjekatPP.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main (1).cpp
+C:\Users\Nikola\OneDrive\Desktop\main (1).cpp(59,5): error C3861: 'read_matrix': identifier not found
+C:\Users\Nikola\OneDrive\Desktop\main (1).cpp(60,5): error C3861: 'read_matrix': identifier not found

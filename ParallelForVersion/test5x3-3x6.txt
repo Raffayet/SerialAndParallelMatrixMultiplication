@@ -1,0 +1,22 @@
+Parallel for version initiated...
+
+Parallel for version time:                      0.0014307 seconds
+
+[Matrix A]
+1       7       4
+0       9       4
+8       8       2
+4       5       5
+1       7       1
+
+[Matrix B]
+1       5       2       7       6       1
+4       2       3       2       2       1
+6       8       5       7       6       1
+
+[Matrix C (result)]
+53      51      43      49      44      12
+60      50      47      46      42      13
+52      72      50      86      76      18
+54      70      48      73      64      14
+35      27      28      28      26      9
